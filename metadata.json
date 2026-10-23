@@ -1,0 +1,6 @@
+{
+  "name": "AuditPulse - Content, Sentiment & AI Citation Auditor",
+  "description": "Comprehensive content auditing engine for target audience resonance, keyword optimization, emotional sentiment analysis, and LLM Generative Engine Optimization (GEO) citation readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
